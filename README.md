@@ -25,7 +25,7 @@ Run:
 docker-compose up
 ```
 
-* This command will **build and start the Docker container** with the application.
+This command will **build and start the Docker container** with the application.
 
 ### 3. Open the web application
 
@@ -37,7 +37,6 @@ http://localhost:8050/
 
 You should see the Car Type Classification web application running.
 
----
 
 ### 4. Run Unit Tests
 
@@ -45,12 +44,4 @@ To test the application, in the terminal run the following command:
 
 ```bash
 python -m pytest code/test_app.py -v
-```
-
-
----
-
-If you want, I can **also enhance this README with badges, screenshots, and a “Quick Start” section** to make it more professional for GitHub.  
-
-Do you want me to do that?
 ```
