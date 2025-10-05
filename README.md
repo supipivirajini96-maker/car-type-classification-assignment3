@@ -47,10 +47,6 @@ To test the application, in the terminal run the following command:
 python -m pytest code/test_app.py -v
 ```
 
-* This will show all unit test results for the web application project.
-
----
-
 
 ---
 
