@@ -14,6 +14,7 @@ RUN pip3 install pytest-mock
 RUN pip3 install joblib
 RUN pip3 install plotly
 RUN pip3 install matplotlib
+RUN pip3 install mlflow
 
 
 # Testing module
