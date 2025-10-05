@@ -1,6 +1,4 @@
-Got it! Here's a **complete README.md** with the **"Start the application using Docker Compose"** section explicitly included:
 
-````markdown
 # Car Type Classification - Assignment 3
 
 This repository contains a web application for **Car Type Classification**.
